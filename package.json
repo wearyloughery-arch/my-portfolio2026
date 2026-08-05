@@ -10,8 +10,5 @@
     "react": "latest",
     "react-dom": "latest",
     "vite": "latest"
-  },
-  "devDependencies": {
-    "lightningcss-win32-x64-msvc": "1.33.0"
   }
 }
